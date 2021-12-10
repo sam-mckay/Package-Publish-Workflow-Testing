@@ -1,11 +1,11 @@
 {
-  "name": "com.sammckay.packagetest",
+  "name": "com.sam-mckay.packagetest",
   "displayName": "Package Test",
   "version": "0.1.0",
   "unity": "2020.3",
   "description": "A test package",
   "keywords": [],
-  "category": "sammckay",
+  "category": "sam-mckay",
   "author": {
     "name": "Sam McKay",
     "email": "developers@myorg.co.uk",
@@ -14,9 +14,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sam-mckay/Package-Publish-Workflow-Testing.git",
-    "directory": "com.sammckay.packagetest"
+    "directory": "com.sam-mckay.packagetest"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@sammckay"
+    "registry": "https://npm.pkg.github.com/@sam-mckay"
   }
 }
