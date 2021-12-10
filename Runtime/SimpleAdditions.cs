@@ -11,5 +11,9 @@ namespace PackageTester.Runtime
             return x + y;
         }
 
+        public static float AddFloats(float x, float y)
+        {
+            return x + y;
+        }
     }
 }
